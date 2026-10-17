@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: testing
+Components: main
+Date: Sat, 17 Oct 2026 20:08:19 +0000
+Description: HardPoint Hypervisor testing updates
+Label: HardPoint Hypervisor
+Origin: HardPoint
+Suite: testing
+MD5Sum:
+ 8719b315354ee0941d490db9017fe179             2424 main/binary-amd64/Packages
+ fbbe718a41c6d48234861164b15734a4              929 main/binary-amd64/Packages.gz
+SHA1:
+ e99f095870c215d15d7cfbdf715a12b3335d26f7             2424 main/binary-amd64/Packages
+ d3f19464d74daf3a158c9cbe974b84db489f1d8b              929 main/binary-amd64/Packages.gz
+SHA256:
+ 4eaa0b664984cc22daa8a91c84607db66b5248da094744e9981f1b54ce805ff5             2424 main/binary-amd64/Packages
+ ed7153f2fa72af4cd9b6cfb1524bc6cea257b9d7e472f92bcbbf6ae225e66642              929 main/binary-amd64/Packages.gz
+SHA512:
+ 489bc193f3f7b75c952645c9a919d089a85dd8e055b018d9d51aaf4c06b3a3765e284a53e237d8516d041654b190c013cf3c52e1e61ee2632c7dbce84bba3c2e             2424 main/binary-amd64/Packages
+ 7c5b8e0f8410248077ca05b3a6adccae17eb0d9d8ac06f97367037b347d770f2f21de2ec03243bf39bbfdadcc388ae8c5ebcd2feb8283707882b3bc5be06f743              929 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRlozk8epQBHcBiW0wHLDxGx6O62gUCatPVswAKCRAHLDxGx6O6
+2gsSAPwOL3Z7n1+d4n++TGX4aRWaiWX6eFOgnTpjPmiBV+KTjwD/e6hBmzXnspeh
+UGuhw38YuY0aRfqKWCr4TIUUGq/xmgQ=
+=GIgL
+-----END PGP SIGNATURE-----

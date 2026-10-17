@@ -1,0 +1,44 @@
+Package: hardpoint-hypervisor
+Version: 0.4.0~build18.1.g26e6979
+Architecture: amd64
+Maintainer: HardPoint Networks <noreply@hardpoint.invalid>
+Installed-Size: 10116
+Depends: adduser, systemd, qemu-system-x86, qemu-utils, libvirt-daemon-system, libvirt-clients, ovmf, swtpm, swtpm-tools, bridge-utils, wireguard-tools, nftables, smartmontools, gdisk, parted, e2fsprogs
+Recommends: ifupdown, samba, nfs-kernel-server, chrony, unattended-upgrades, incus
+Filename: pool/testing/hardpoint-hypervisor_0.4.0~build18.1.g26e6979_amd64.deb
+Size: 3151036
+MD5sum: 3a9880d08faa1fcdc809392f4dcab687
+SHA1: 72c12e17d7b2376434dc7ad7763c486c6646f6b8
+SHA256: c9a770a6d799efc99307d11cf7b6fa28e6a2138aec7a08ce7f357221802e865e
+Section: admin
+Priority: optional
+Homepage: https://github.com/shanes-usernam3/hardpoint-hypervisor
+Description: HardPoint Hypervisor - virtual machine host with a web UI
+ Turns a Debian server into a KVM virtualization host managed from a
+ secure, simple web interface: create and control VMs from templates,
+ open their consoles in the browser, share folders over SMB/NFS and run a
+ WireGuard VPN. Also runs Linux containers (Incus), scheduled VM backups,
+ a host firewall and multiple users with roles.
+
+Package: hardpoint-hypervisor
+Version: 0.4.1~build23.1.gaa4a6c5
+Architecture: amd64
+Maintainer: HardPoint Networks <noreply@hardpoint.invalid>
+Installed-Size: 10176
+Depends: adduser, systemd, qemu-system-x86, qemu-utils, libvirt-daemon-system, libvirt-clients, ovmf, swtpm, swtpm-tools, bridge-utils, wireguard-tools, nftables, smartmontools, gdisk, parted, e2fsprogs
+Recommends: ifupdown, samba, nfs-kernel-server, chrony, unattended-upgrades, incus
+Filename: pool/testing/hardpoint-hypervisor_0.4.1~build23.1.gaa4a6c5_amd64.deb
+Size: 3167508
+MD5sum: ff851e9ea5d7bbb976f7be1852c63a4f
+SHA1: 4db588b00dba9a20f6124ea3ff99876dde0e1bd9
+SHA256: 582fc9a666f5da290fc3d765f2ecef4b9868db644d2eb2ce0f35eff13ec01b3b
+Section: admin
+Priority: optional
+Homepage: https://github.com/shanes-usernam3/hardpoint-hypervisor
+Description: HardPoint Hypervisor - virtual machine host with a web UI
+ Turns a Debian server into a KVM virtualization host managed from a
+ secure, simple web interface: create and control VMs from templates,
+ open their consoles in the browser, share folders over SMB/NFS and run a
+ WireGuard VPN. Also runs Linux containers (Incus), scheduled VM backups,
+ a host firewall and multiple users with roles.
+
